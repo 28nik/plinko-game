@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  transform: translateX(80%);
+}
+button {
+  padding: 10px 10px 10px 10px;
+  margin: 0;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  background: linear-gradient(to left, rgb(3, 112, 163), rgb(255,90,10));
+}
